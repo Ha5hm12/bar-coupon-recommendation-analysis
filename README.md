@@ -1,5 +1,6 @@
 # Bar Coupon Recommendation Analysis
-
+Student Name: Baban Deep Kour
+Student ID: 001534129-1
 Individual assessment analysing the In-Vehicle Coupon Recommendation dataset 
 to investigate why Bar coupons have the lowest acceptance rate (41.2%) of all 
 five coupon types, and to build a targeted delivery strategy using 
